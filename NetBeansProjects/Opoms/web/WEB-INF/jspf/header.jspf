@@ -1,0 +1,3 @@
+<%@ page pageEncoding="UTF-8" %>
+<img src="images/logo.jpg" alt="" class="img-rounded"/>
+<b><i>OPOMS(An Online Purchase Order Management System)</i></b>

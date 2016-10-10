@@ -1,0 +1,15 @@
+<%@ page pageEncoding="UTF-8" %>
+<ul class="navbar navbar-inverse nav nav-pills" >
+    <li role="presentation" class="active btn"><a href="user_homepage.jsp">Dash Board</a></li>
+    <li role="presentation" class="active btn"><a href="new_product_entry.jsp">Add Product</a></li>
+    <li role="presentation" class="active btn"><a href="ViewProduct.jsp">View Products</a></li>
+    <li role="presentation" class="active btn"><a href="SearchProduct.jsp">Search Product</a></li>
+    <li role="presentation" class="active btn"><a href="AddPo.jsp">Add Purchase Order</a></li>
+    <li role="presentation" class="active btn"><a href="PoListView.jsp">Purchase Orders</a></li>
+    <li role="presentation" class="active btn"><a href="SearchPoFromProduct.jsp">Search Product with PO</a></li>
+    <li role="presentation" class="active btn"><a href="AddStock.jsp">Add Reel Stock</a></li>
+    <li role="presentation" class="active btn"><a href="ViewStock.jsp">View Reel Stock</a></li>
+    <li role="presentation" class="active btn"><a href="IssueReel.jsp">Issue Reel</a></li>
+    <li role="presentation" class="active btn"><a href="Logout.jsp">Logout</a></li>
+</ul>
+

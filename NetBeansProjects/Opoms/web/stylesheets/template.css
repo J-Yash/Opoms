@@ -1,0 +1,41 @@
+
+#header
+{
+    background-color: saddlebrown;
+    font-size:  3.0em;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    
+}
+
+#content
+{
+    background-color: goldenrod;
+    width: 100%;
+    min-height: 650px;;
+}
+
+#footer
+{
+    width: 100%;
+    background-color: saddlebrown;
+    height: 80px;
+    
+    
+   
+}
+
+#footer p
+{
+    text-align: right;
+    font-size: 1.5em;
+    color: black;
+    
+}
+
+#menu
+{
+    padding: auto;
+    align-content: center;
+}
